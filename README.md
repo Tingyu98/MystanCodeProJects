@@ -16,5 +16,5 @@ Watch my *[DEMO VIEDOS](https://drive.google.com/drive/folders/1YfgsM0vmbgTQMsDs
 * [Name Popularity Searching System](https://github.com/Tingyu98/MystanCodeProJects/blob/main/stanCode_Projects/baby_names/babynames.py)
   * data structure 
 * [Boggle Game Solver](https://github.com/Tingyu98/MystanCodeProJects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
-  * recusive functions
+  * recursive functions
  
